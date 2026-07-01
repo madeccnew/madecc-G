@@ -98,6 +98,15 @@
       "review": "Excellent renovation job on our retail boutique storefronts. The site coordination team kept construction noise and dust contained, allowing neighboring shops to remain open. Professional communication from start to finish.",
       "approved": true,
       "date": "2026-06-02"
+    },
+    {
+      "name": "dddd",
+      "email": "madecccons@gmail.com",
+      "rating": 5,
+      "review": "dfdsddd",
+      "id": "rev-1782885175146",
+      "approved": false,
+      "date": "2026-07-01"
     }
   ],
   "appointments": [
@@ -110,6 +119,17 @@
       "projectType": "commercial",
       "message": "hllo",
       "id": "apt-1782876963257",
+      "date": "2026-07-01"
+    },
+    {
+      "name": "Kasah Rodrick Reboya",
+      "email": "kasahreboya950@gmail.com",
+      "phone": "+237683316486",
+      "preferredDate": "2026-07-29",
+      "preferredTime": "01:30 PM - 03:00 PM",
+      "projectType": "residential",
+      "message": "please visit our country ",
+      "id": "apt-1782885291948",
       "date": "2026-07-01"
     }
   ],
@@ -142,6 +162,12 @@
     {
       "id": "sub-1782879471002",
       "email": "kasahreboya950@gmail.com",
+      "date": "2026-07-01",
+      "status": "active"
+    },
+    {
+      "id": "sub-1782885331652",
+      "email": "kasahreboya95@gmail.com",
       "date": "2026-07-01",
       "status": "active"
     }
