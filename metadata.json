@@ -1,0 +1,6 @@
+{
+  "name": "MADECC Group Construction",
+  "description": "Professional construction website for MADECC Group, specializing in luxury Residential and premium Commercial Construction. Includes fully featured admin dashboard, blog system, project portfolio, appointment booking, reviews, and SEO optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
